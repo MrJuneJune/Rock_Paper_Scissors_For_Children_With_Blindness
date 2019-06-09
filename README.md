@@ -8,6 +8,13 @@ Requirement.
 - Opencv 3.4.1
 - numpy
 
+How to use:
+
+1. git clone
+2. run `python Rock_Paper_Scissor.py`
+
+
+
 Description: 
 
 This script uses opencv2 library to distinguish hand gesture from video by following these steps.
